@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  align="left">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px"> <br>
 <img src="https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg" min-width="380px" max-width="400px" width="1000px"> <br>
-<div align="center">
+<div>
 <a href="https://github.com/nurbekabdiaxatov"><img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurbekabdiaxatov&theme=github_dark" alt="Nurbek2107's GitHub stats" /></a>
   <div >
     <a href="https://github.com/nurbekabdiaxatov"><img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurbekabdiaxatov&theme=github_dark" alt="Nurbek2107's GitHub stats" /></a><a href="https://github.com/nurbekabdiaxatov"><img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nurbekabdiaxatov&theme=github_dark&utcOffset=8" alt="Nurbek2107's GitHub stats" /></a>
