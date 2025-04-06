@@ -1,7 +1,6 @@
 <img width=100% title="abdiaxatov" alt="abdiaxatov" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fronten-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <p align="center">
-  
   <a  href="https://github.com/abdiaxatov"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Nurbek%20Abdiaxatov%20;🔗%20Software%20Engineer;👨‍💻%20Front-end%20Web%20Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6f5&vCenter=true&size=45%22"></a>
 </p>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdiaxatov&theme=github_dark" alt="abdiaxatov's GitHub stats" />
