@@ -8,7 +8,6 @@
 <img align="right" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdiaxatov&theme=github_dark&utcOffset=8" alt="abdiaxatov's GitHub stats" />
 <img  align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=abdiaxatov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="abdiaxatov's GitHub stats" />
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaxatov&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-
 <img src="https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg" min-width="380px" max-width="400px" width="1000px"> <br>
 <div>
 <p align="center">
