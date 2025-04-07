@@ -11,6 +11,7 @@
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaxatov&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 <img src="https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg" min-width="380px" max-width="400px" width="1000px"> <br>
 <div>
+  
 <p align="center">
   <a href="https://t.me/abdiaxatov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nurbekabdiaxatov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
