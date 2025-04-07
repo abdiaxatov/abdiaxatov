@@ -3,6 +3,7 @@
 <p align="center">
   <a  href="https://github.com/abdiaxatov"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Nurbek%20Abdiaxatov%20;🔗%20Software%20Engineer;👨‍💻%20Front-end%20Web%20Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6f5&vCenter=true&size=45%22"></a>
 </p>
+
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdiaxatov&theme=github_dark" alt="abdiaxatov's GitHub stats" />
 <img align="left" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdiaxatov&theme=github_dark" alt="abdiaxatov's GitHub stats" />
 <img align="right" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdiaxatov&theme=github_dark&utcOffset=8" alt="abdiaxatov's GitHub stats" />
