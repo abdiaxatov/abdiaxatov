@@ -51,43 +51,14 @@ fast and scalable web applications.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,firebase,postgres,mongodb,git,github,vercel,figma,vscode&perline=8"/>
 
-</p>
+ 
 
 
 
-<h2 align="center">
-🚀 Featured Projects
-</h2>
-
-
-<p align="center">
-
-<a href="https://github.com/abdiaxatov">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdiaxatov&repo=3d_menyu&theme=tokyonight&hide_border=true"/>
-</a>
-
-
-<a href="https://github.com/abdiaxatov">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdiaxatov&repo=FoodHub&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
 
 
 
-<h2 align="center">
-📊 GitHub Statistics
-</h2>
 
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdiaxatov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiaxatov&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 
 
@@ -104,7 +75,7 @@ fast and scalable web applications.
 
 
 
-<h2 align="center">
+<h2 align="center"> 
 📈 Contribution Activity
 </h2>
 
